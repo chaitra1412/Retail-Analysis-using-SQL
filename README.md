@@ -58,7 +58,8 @@ Data Loading: Use the 'LOAD DATA INFILE' command to load data from the CSV file 
 
 Execute Analysis Queries: Run the SQL queries provided under each analysis question to obtain insights into the retail sales data.
 
-Conclusion
+
+**Conclusion**
 
 This README document provides an overview of the SQL analysis conducted on retail sales data, including the dataset description, analysis queries, data source, execution instructions, and conclusion. The analysis aims to offer valuable insights into various aspects of retail sales for informed decision-making.
 
